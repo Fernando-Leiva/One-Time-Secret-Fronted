@@ -1,0 +1,9 @@
+.containerUiSecret{
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+    font-size: x-large;
+    color: wheat;
+    text-shadow: 4px 8px black;
+}
